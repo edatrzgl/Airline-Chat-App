@@ -1,7 +1,7 @@
 # Airline-Chat-App
 
-# video gateway: https://drive.google.com/file/d/1u0aFm8LNDyoRbgmb1T2oeKV8muMvrnKJ/view?usp=sharing
-# video flutter app: https://drive.google.com/file/d/1ELC8EzvlAu_zx27Pt7CXkmvooyf-WRKD/view?usp=sharing
+## video gateway: https://drive.google.com/file/d/1u0aFm8LNDyoRbgmb1T2oeKV8muMvrnKJ/view?usp=sharing
+## video flutter app: https://drive.google.com/file/d/1ELC8EzvlAu_zx27Pt7CXkmvooyf-WRKD/view?usp=sharing
 
 ## Proje Genel Bakış
 Bu proje, bir havayolu bilet sistemi geliştirmek ve akıllı bir chat uygulaması oluşturmak amacıyla tasarlanmıştır. Proje, kullanıcıların uçuş sorgulama, bilet satın alma ve check-in gibi işlemleri yapabileceği bir sistem sunmayı hedefler. Akıllı chat özelliği, OpenAI entegrasyonu ile doğal dil işleme (NLP) kullanılarak mesajların intent’ini ayrıştırma ve parametreleri çıkarma yeteneği kazandırmayı amaçlar. Proje aşağıdaki bileşenlerden oluşur:
