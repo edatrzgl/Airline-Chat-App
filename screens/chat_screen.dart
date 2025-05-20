@@ -27,7 +27,7 @@ class _ChatScreenState extends State<ChatScreen> {
 
   // OpenAI API anahtarı
   final String openAiApiKey =
-      "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";
+      "....";
 
   // Midterm API için token alma
   Future<String> getToken() async {
